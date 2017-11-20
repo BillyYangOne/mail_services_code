@@ -1,0 +1,6 @@
+#发送邮件服务器
+smtpServer=kyee.com
+#发送邮件服务器端口
+smtpServerPort=25
+mailReceiveServer=kyee.com
+mailReceiveServerPort=110
